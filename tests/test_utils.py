@@ -1,4 +1,4 @@
-from utils import add
+from ..utils import add
 import pytest
 
 def test_add():
