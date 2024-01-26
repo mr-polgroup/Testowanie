@@ -2,6 +2,9 @@
   H1 {color: blue;}
   H2 {color: red;}
   th {background-color: lightgreen; font-size: 120%;}
+  img {
+    box-shadow: 10px 10px 8px #f00;
+  }
 </style>
 
 # Nauka testowania
