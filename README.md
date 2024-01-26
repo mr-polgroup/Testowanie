@@ -11,7 +11,11 @@ Strona powinna zawierać następujące elementy:
 + Co najmniej jeden obrazek
 + Wystylowane za pomocą kaskadowych arkuszy stylów tabele oraz obrazki.
 
+<font color="red">
+
 ## Paragrafy
+
+</font>
 
 Donec quis pulvinar elit. Morbi porta, quam quis rhoncus dignissim, turpis ligula pretium libero, nec fringilla dolor justo sit amet ipsum. Donec at eleifend metus. In placerat nulla sed eros blandit congue. Suspendisse porttitor commodo arcu, rutrum hendrerit ante suscipit non. Morbi at tempus ante. Nullam ultrices metus in vulputate fringilla. Maecenas lacinia a tellus id dignissim.
 
@@ -25,8 +29,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec gravida consectet
 + [Tabele w Markdown](https://abclinuksa.pl/books/markdown_html/syntax/tables.html)
 
 ## Tabela
-
-|Kraj|Stolica|
+  
+|**Kraj**|**Stolica**|
 |:-:|:-:|
 |Polska|Warszawa|
 |Francja|Paryż|
