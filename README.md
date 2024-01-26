@@ -1,3 +1,8 @@
+<style>
+  H1 {color: blue;}
+  H2 {color: red;}
+</style>
+
 # Nauka testowania
 
 ## Co powinno być na stronie
@@ -11,13 +16,8 @@ Strona powinna zawierać następujące elementy:
 + Co najmniej jeden obrazek
 + Wystylowane za pomocą kaskadowych arkuszy stylów tabele oraz obrazki.
 
-<font color="red">
 
 ## Paragrafy
-
-</font>
-
-<font color="red">abc</font>
 
 Donec quis pulvinar elit. Morbi porta, quam quis rhoncus dignissim, turpis ligula pretium libero, nec fringilla dolor justo sit amet ipsum. Donec at eleifend metus. In placerat nulla sed eros blandit congue. Suspendisse porttitor commodo arcu, rutrum hendrerit ante suscipit non. Morbi at tempus ante. Nullam ultrices metus in vulputate fringilla. Maecenas lacinia a tellus id dignissim.
 
