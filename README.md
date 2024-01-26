@@ -4,8 +4,6 @@
   thead tr {background-color: lightgreen; font-size: 150%;}
 </style>
 
-a
-
 # Nauka testowania
 
 ## Co powinno być na stronie
