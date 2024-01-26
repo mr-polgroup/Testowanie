@@ -17,6 +17,8 @@ Strona powinna zawierać następujące elementy:
 
 </font>
 
+<font color="red">abc</font>
+
 Donec quis pulvinar elit. Morbi porta, quam quis rhoncus dignissim, turpis ligula pretium libero, nec fringilla dolor justo sit amet ipsum. Donec at eleifend metus. In placerat nulla sed eros blandit congue. Suspendisse porttitor commodo arcu, rutrum hendrerit ante suscipit non. Morbi at tempus ante. Nullam ultrices metus in vulputate fringilla. Maecenas lacinia a tellus id dignissim.
 
 Nam porta dignissim tortor, vitae sollicitudin lorem consectetur in. Curabitur vel justo nec odio viverra lacinia et et leo. Curabitur laoreet scelerisque odio id sagittis. Aenean non dui aliquam, varius odio eget, ultrices turpis. Donec accumsan ex a nisl cursus, a pharetra lorem mollis. Morbi finibus aliquam justo ac auctor. Nulla mollis semper cursus. Donec ut mollis orci. Integer ultrices consequat massa, eget pellentesque massa interdum sed. Aliquam erat volutpat. Mauris tempus tempus massa nec maximus. Proin in dui rutrum, eleifend nibh quis, elementum lorem.
