@@ -1,7 +1,10 @@
 <style>
   H1 {color: blue;}
   H2 {color: red;}
+  thead tr {background-color: lightgreen;}
 </style>
+
+a
 
 # Nauka testowania
 
