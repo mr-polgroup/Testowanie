@@ -33,3 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec gravida consectet
 |Hiszpania|Madryt|
 
 ## Obrazki
+### Zanieczyszczenie cząstkami PM2.5 w 2008 roku
+![Stężenie PM2 5 2008](https://github.com/mr-polgroup/Testowanie/assets/148214221/91d73a58-c46e-457c-9a52-e3061b169ed1)
+### Zanieczyszczenie cząstkami PM2.5 w 2012 roku
+![Stężenie PM2 5 2012](https://github.com/mr-polgroup/Testowanie/assets/148214221/c5f998c5-ed4c-460b-9c54-455a5a2bdb18)
